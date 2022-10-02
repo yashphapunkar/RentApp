@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "954724549310",
+    "project_id": "gigstart-7f53f",
+    "storage_bucket": "gigstart-7f53f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954724549310:android:f02b2bb92d4c1c13af14ef",
+        "android_client_info": {
+          "package_name": "com.example.eventlistners"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954724549310-r79pqnfgd5j0it6dvrnit8m91tsbfvcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu2zds2mzc1AuEL80-0tnC_6oCr2nN8UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954724549310-r79pqnfgd5j0it6dvrnit8m91tsbfvcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
